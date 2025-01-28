@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on CPP modules<br>⚡ Fun fact I was in accounting before
+🔭 I’m currently a 42 student<br>⚡ Fun fact I was in accounting before
 
 
 ## 🌐 Socials
