@@ -4,7 +4,7 @@
 
 ## About Me
 
-##### Currently studying at **42 School**
+##### Currently in an internship at **Université Paris Cité**
 ##### **Career Pivot**: Transitioned from accounting to software development
 ##### Passionate about **modern web technologies**
 ##### Love solving problems and building efficient solutions
